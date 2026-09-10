@@ -1,0 +1,12 @@
+{
+  "model": "LogisticRegression",
+  "cv_accuracy": 0.8047,
+  "holdout_accuracy": 0.7765,
+  "holdout_precision": 0.7963,
+  "holdout_recall": 0.5972,
+  "holdout_auc": 0.8789,
+  "holdout_mean_12_splits": 0.8012,
+  "holdout_std_12_splits": 0.0236,
+  "baseline": 0.5993,
+  "training_rows": 891
+}
